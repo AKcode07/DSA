@@ -1,2 +1,1 @@
-#include <algorithm>
-// #include <vector>
+char *p = s;
